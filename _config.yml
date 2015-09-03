@@ -1,12 +1,12 @@
 # Site settings
-title: Anil Wadghule
-email: anildigital@gmail.com
+title:  windha
+email: windha@gmail.com
 description: >
   A visionary developer
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://anilwadghule.com" # the base hostname & protocol for your site
-twitter_username: anildigital
-github_username:  anildigital
+url: "http://windha.com" # the base hostname & protocol for your site
+twitter_username: windha
+github_username:  windha
 
 # Build settings
 markdown: kramdown
