@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 关注的博客
+title: follow
 ---
 
 ## Software
